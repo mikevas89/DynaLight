@@ -13,7 +13,7 @@ Most important files:
 
 Transmitter files: Transmitter/AndroidEncoder.ino
 
-Receiver: The whole application and the jni/jni_part.cpp that implements the image processing
+Receiver: The whole Android application and the jni/jni_part.cpp that implements the image processing
 
 Scripts: Scripts/Pipeline.ipynb
 
