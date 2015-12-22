@@ -6,6 +6,9 @@ Scripts = Python scripts for offline processing (iPython)
 
 Receiver = Receiver application
 
+---------------------------------------------------------------
+
+
 Most important files:
 
 Transmitter files: Transmitter/AndroidEncoder
